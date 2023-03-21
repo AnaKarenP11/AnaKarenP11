@@ -1,4 +1,6 @@
 ### Hi there 👋
+This is just my fisrt readme.md
+🌱 I’m currently learning.
 
 <!--
 **AnaKarenP11/AnaKarenP11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
