@@ -1,6 +1,4 @@
 ### Hi there 👋
-This is just my fisrt readme.md
-
 🌱 I’m currently learning.
 
 <!--
